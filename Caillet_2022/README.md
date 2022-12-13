@@ -2,8 +2,7 @@
 
 Paper submitted to JGR Oceans
 
-* NEMO-3.6 : dev_r5151_UKMO_ISF branch at revision 5932
-  produced by Nicolas Jourdain on occigen (CINES)
+* NEMO-3.6 : dev_r5151_UKMO_ISF branch at revision 5932. Initial configuration produced by Nicolas Jourdain.
   
 * Very few personal customizations (in MY_SRC)
 
